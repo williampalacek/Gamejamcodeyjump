@@ -11,4 +11,4 @@ This repo contains our rendition of Codecademy's codey jump.
  
  ### -A tech stack.
 
- ### -Relection
+ ### -Reflection
