@@ -8,3 +8,4 @@ Throughout the creation of this project, I developed my understanding of Phaser 
 ### Will
 
 ### Eric
+This project has helped me further my understanding of Phaser. Due to time constraints, we were unable to fully create a game from scratch. Instead, we opted to create a modified version of the Phaser course’s Codey Jump. Here we modified topics that we learned throughout the course such as adjusting bouncing and gravity values, and fiddling with the collider between objects. From here, I think I would try to polish the interactions between each object more. Instead of moving platforms as Codey Jump defaulted to, I would like to completely reset all their properties such as velocity, or at least, keep the velocity constant. Overall this project served to enhance my learning of Phaser by allowing me to apply the concepts that I learned over the course into the game.
